@@ -1,4 +1,4 @@
 ## Hi there 👋
 
-<IMG width="125% SRC="/gif/dayz.gif">
+<td>width="125%> <IMG SRC= "/gif/dayz.gif">
 
