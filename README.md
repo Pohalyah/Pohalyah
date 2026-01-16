@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-<IMG SRC="dayz.gif">
+<IMG SRC="/gif/dayz.gif">
